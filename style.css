@@ -59,18 +59,36 @@ header {
 .info {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   height: 560px;
-  width: 415px;
-  background-color: bisque;
+  width: 350px;
+  /* background-color: bisque; */
   display: inline-block;
   margin-top: 15px;
-  margin-left: 10px;
+  margin-left: 70px;
+}
+.info h2 {
+  margin-bottom: -40px;
+  text-transform: uppercase;
+  color: grey;
+  font-size: 23px;
 }
 
-.info h1 {
+.firstname {
   text-transform: uppercase;
   font-weight: bolder;
+  margin-bottom: -10px;
+  font-size: 60px;
 }
 
-.info h2{
-  te
+.lastname {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-bottom: -15px;
+  font-size: 36px;
+  margin-top: 10px;
+}
+
+.info h3 {
+  text-transform: uppercase;
+  color: grey;
+  font-size: 15px;
 }
