@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-console.log("Hello");
-=======
 console.log("OK");
->>>>>>> javascript
+console.log("Hello");
